@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://your-solution-url.com](https://github.com/thiagovt-dev/interactive-card-details-form-main)
+- Live Site URL: [Webpage solution](https://your-live-site-url.com](https://thiagovt-dev.github.io/interactive-card-details-form-main/)
 
 ## My process
 
@@ -121,6 +121,6 @@ new Cleave(cardNumberInput, {
 ## Author
 
 - Frontend Mentor - [@thiagovasconcelosteixeira](https://www.frontendmentor.io/profile/thiagovasconcelosteixeira)
-- Instagram - [@dev.thiagovt](https://www.twitter.com/yourusername)
+- Instagram - [@dev.thiagovt](https://www.instagram.com/dev.thiagovt/)
 
 
