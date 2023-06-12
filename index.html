@@ -47,7 +47,7 @@
         <form action=""  class="row needs-validation mt-5" id="form-content" novalidate>
           <div class=" col-md-12 mb-3" >
             <label for="cardname" class="form-label">cardholder name</label>
-            <input type="text" name="cardname" class="form-control" id="cardname" placeholder="e.g. Jane Appleseed" required maxlength="30">
+            <input type="text" name="cardname" class="form-control" id="cardname" placeholder="e.g. Jane Appleseed" required maxlength="30" title="Your name please">
             <div class="invalid-feedback">Required Field</div>
           </div>
           <div class="col-md-12 mb-3 " >
@@ -58,19 +58,19 @@
           <div class="col-md-8 col-8 mb-3">
             <label for="expdate" class="form-label">Exp. date (MM/YY)</label>
             <div class="d-flex ">
-              <div class="col-4 col-md-4"><input type="number" name="expdate" class="form-control " id="expdate" placeholder="MM" required maxlength="2"><div class="invalid-feedback">Can't blank</div></div>
-              <div class="col-4 col-md-4"><input type="number" name="expdate" class="form-control " id="expdateYY" placeholder="YY" required maxlength="2"><div class="invalid-feedback">Can't blank</div></div>
+              <div class="col-4 col-md-4"><input type="number" name="expdate" class="form-control " id="expdate" placeholder="MM" required maxlength="2"  title="Expiry years with 2 digit"><div class="invalid-feedback">Can't blank</div></div>
+              <div class="col-4 col-md-4"><input type="number" name="expdate" class="form-control " id="expdateYY" placeholder="YY" required maxlength="2" title="Expiry years with 2 digit"><div class="invalid-feedback">Can't blank</div></div>
             </div>
           </div>
           <div class="col-md-4 col-4">
             <label for="cvc" class="form-label">cvc</label>
-            <input type="number" name="cvc" class="form-control" id="cvc" placeholder="e.g. 123" required maxlength="3">
+            <input type="number" name="cvc" class="form-control" id="cvc" placeholder="e.g. 123" required maxlength="3" title="CVC number with 3 digit">
             <div class="invalid-feedback">Can't blank</div>
           </div>  
           <div class=" mt-4"><input type="submit" class="btn btn-primary col-12" value="Confirm" id="confirm"></div>      
         </form>
         <div class="complete mt-4">
-          <img src="images/icon-complete.svg" alt="" aria-hidden="true" class="mb-5 ">
+          <img src="images/icon-complete.svg" alt="icon complete image" aria-hidden="true" class="mb-5 ">
           <h3>THANK YOU</h3>
           <p>We've added your card details</p>
           <div class=" mt-4"><input type="submit" class="btn btn-primary col-12" value="Continue" id="confirm"></div> 
