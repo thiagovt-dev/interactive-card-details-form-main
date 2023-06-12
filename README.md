@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://your-solution-url.com](https://github.com/thiagovt-dev/interactive-card-details-form-main)
-- Live Site URL: [Webpage solution](https://your-live-site-url.com](https://thiagovt-dev.github.io/interactive-card-details-form-main/)
+- Solution URL: [Source Code](https://github.com/thiagovt-dev/interactive-card-details-form-main)
+- Live Site URL: [Webpage solution](https://thiagovt-dev.github.io/interactive-card-details-form-main/)
 
 ## My process
 
