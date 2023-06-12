@@ -33,7 +33,7 @@ Users should be able to:
 
 ![](./screenshots/desktop-preview.png)
 ![](./screenshots/desktop-state-preview.png)
-![](./screenshoots/desktop-complete-preview.png)
+![](./screenshots/desktop-complete-preview.png)
 ![](./screenshots/mobile-preview.png)
 ![](./screenshots/mobile-complete.png)
 
