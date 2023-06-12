@@ -16,7 +16,6 @@ body{
     max-width: 100vw;
     min-height: 30vh;
     color: #fff;
-    transition: .3s all linear;
 }
 
 #bg-main .card-container .card-back{
